@@ -25,3 +25,5 @@ Read [Internationalisation? – But I can barely speak english correctly never m
             }
         }
     }
+	
+pseudo: [ Šťяíиĝ ťõ ťяàиšլàťê. !!!! ]
